@@ -10,18 +10,15 @@ Think of them like blog posts, but living. This is mainly for my own personal us
 
 ### Contribute
 
-Yes. [Open an issue](https://github.com/RichardLitt/knowledge/issues)!
+Yes. [Open an issue](https://github.com/Unity-Billal-mesloub/knowledge/issues)!
 
 Excitingly, you can also:
 
-### [🛠Join me in making stuff!](https://github.com/RichardLitt/meta)
-### [¿Ask me any questions?!](https://github.com/RichardLitt/ama)
-### [👋 Suggest I do stuff!](https://github.com/RichardLitt/todo)
+### [🛠Join me in making stuff!](https://github.com/Unity-Billal-mesloub/meta)
+### [¿Ask me any questions?!](https://github.com/Unity-Billal-mesloub/ama)
+### [👋 Suggest I do stuff!](https://github.com/Unity-Billal-mesloub/todo-1)
 
-### Other Knowledge repositories
-
-See [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other lists by people who also record stuff on GitHub.
 
 ## License
 
-CC-NC-BY-SA
+mit License
