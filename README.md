@@ -21,4 +21,4 @@ Excitingly, you can also:
 
 ## License
 
-mit License
+Mit License
