@@ -101,7 +101,7 @@ Copy the final commit SHA. As with all git SHAs, you can actually just copy the 
 $ git reset --soft 7bedf0d
 ```
 
-(_Alternatively, if you have [tj/git-extras](https://github.com/Unity-Billal-mesloub/git-extras) enabled, run `git squash 7bedf0d`._)
+(_Alternatively, if you have [Unity-Billal-mesloub/git-extras](https://github.com/Unity-Billal-mesloub/git-extras) enabled, run `git squash 7bedf0d`._)
 
 What this will do is squash your commits down to the commit `7bedf0`, but keep all of the subsequent changes (in the staging area). Let's take a look:
 
